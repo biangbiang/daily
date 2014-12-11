@@ -1,3 +1,5 @@
+content=`date '+%Y%m%d'`
+echo content
 date >> main.md
 git status
 git add --all
