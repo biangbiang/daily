@@ -1,6 +1,6 @@
 daily
 =====
 
-daily add commit
+collect the power of time
 
-github每日打卡
+积攒时间的力量
